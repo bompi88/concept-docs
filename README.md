@@ -12,7 +12,8 @@ lets(begin);
 <br><br>
 
 ### Kontaktinfo
-Det oppføres bare epost, da timepris på vårt arbeid over telefon er dyrere enn de fleste har råd til.
+
+Utviklerne kan kontaktes per e-post. Hvis det er noen spørsmål kontakt en av følgende utviklere:
 
 ```
 Bjørn Bråthen - bjorbrat88@gmail.com
