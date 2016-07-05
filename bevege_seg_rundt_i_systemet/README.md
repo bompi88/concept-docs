@@ -19,7 +19,7 @@ Boksvisningen (figur 8) er den eneste av disse visningene man har mulighet til �
 I en hver sammenheng kan man eksportere rapportene i - den sorterte og/eller filtrerte - listen til `.csv` format. Hva er nå det for noe? Jo, det er et format som er kompatibelt med det meste, deriblant MS Excel. På de fleste maskiner åpner man bare filen og denne åpnes i et Excel-lignende program. Hvis ikke denne filen åpnes automatisk i Excel (eller hva man enn har) når man trykker på den, er det muligheter for å importere filen ved bruk av `File->Import` i Excel-menyen, eller lignende.
 
 <center><div style="max-width:800px;"><img src="../assets/evaluation-reports-table.png"/></div></center>
-<center><em>Tabellvisning i seksjonen Evalueringsrapporter.</em></center>
+<center><em><b>Figur 9</b> Tabellvisning i seksjonen Evalueringsrapporter.</em></center>
 
 I tabellvisningsmodus kan man enkelt sortere på kolonnene ved å trykke på kolonnetittelen. En pil indikerer hvilken kolonne som sorteres på og hvilken retning verdiene stiger. På bildet over, ser man at `navn` er valgt som sorteringsattributt og at radene sorteres stigende fra topp til bunn. Nåværende sortering vises også i sorteringsknappen øverst til høyre. Hvis man klikker på en av radene kommer man inn på den enkelte rapport sin side.
 
