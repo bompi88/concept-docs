@@ -14,7 +14,7 @@ Dette er seksjonen som er viktigst for den vanlige brukeren. Her finnes det ulik
 Boksvisningen (figur 8) er den eneste av disse visningene man har mulighet til å komme inn i redigeringsmodus på hver og enkelt rapport. Man klikker på den grønne knappen, som det står `Rediger` på. Hvis man klikker hvor som helst ellers på en boks, kommer man inn på den enkelte rapport sin side.
 
 <center><div style="max-width:800px;"><img src="../assets/evaluation-reports-box.png"/></div></center>
-<center><em>Boksvisning i seksjonen Evalueringsrapporter.</em></center>
+<center><em><b>Figur 8</b> Boksvisning i seksjonen Evalueringsrapporter.</em></center>
 
 I en hver sammenheng kan man eksportere rapportene i - den sorterte og/eller filtrerte - listen til `.csv` format. Hva er nå det for noe? Jo, det er et format som er kompatibelt med det meste, deriblant MS Excel. På de fleste maskiner åpner man bare filen og denne åpnes i et Excel-lignende program. Hvis ikke denne filen åpnes automatisk i Excel (eller hva man enn har) når man trykker på den, er det muligheter for å importere filen ved bruk av `File->Import` i Excel-menyen, eller lignende.
 
