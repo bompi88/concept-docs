@@ -18,7 +18,7 @@ Hvis man vil logge seg på, går man direkte til `http://concept-eval.ivt.ntnu.n
 <center><div style="max-width:500px;"><img src="../assets/accounts-login.png"/></div></center>
 <center><em><b>Figur 1.</b> Panel for innlogging.</em></center>
 
-I dette panelet - som dukker opp på midten av skjermen - skriver man inn epost og tilhørende passord. Deretter klikker man på `Logg inn`, og hvis man da har gjort alt riktig, vil man bli logget inn og få et par ekstra funksjonelle muligheter. Disse mulighetene blir beskrevet i en annen seksjon i denne brukermanualen.
+I dette panelet (figur 1) - som dukker opp på midten av skjermen - skriver man inn epost og tilhørende passord. Deretter klikker man på `Logg inn`, og hvis man da har gjort alt riktig, vil man bli logget inn og få et par ekstra funksjonelle muligheter. Disse mulighetene blir beskrevet i en annen seksjon i denne brukermanualen.
 
 #### 1.1.1 Nei, dette funket ikke. Jeg gir meg!
 
