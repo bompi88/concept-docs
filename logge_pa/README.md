@@ -63,7 +63,7 @@ Kommer du nå til å huske passordet til neste gang? Kremt.. Kremt..
 
 #### 1.2.1 Andre senarioer
 * Du vet allerede hvordan du kommer deg til innloggingssiden, eller du er der allerede.
-    1. Hvis ikke allerede gjort: Gå til http://www.concept.ntnu.no/rapporter/concept-admin
+    1. Hvis ikke allerede gjort: Gå til http://concept-eval.ivt.ntnu.no/concept-admin
     2. Finn `glemt passord` linken og trykk på denne.
     3. Utfør samme prosedyre som over.
 * Du har glemt alt, både epost og passord og vil gjerne ha tilgang til siden igjen.
@@ -72,7 +72,7 @@ Kommer du nå til å huske passordet til neste gang? Kremt.. Kremt..
 <center><div style="width: 85%; text-align:left;background-color:#fffbc4;padding: 5px 25px;border: 1px solid #ffdf02;">
 <h3 style="font-weight: 600;">Visste du at ...?</h3>
 <p>
-Hvis man allerede er logget inn, kan man endre passordet inne under brukermenyen øverst til høyre også.
+Hvis man allerede er logget inn, kan man endre passordet inne under brukermenyen øverst til høyre.
 </p>
 </div></center>
 
@@ -81,12 +81,12 @@ Noen vil sikkert si:
 
 > Spar meg. Jeg klarer vel å logge ut på egenhånd. Hva tar du meg for å være?!
 
-Denne personen er ikke nødvendigvis en superbruker, og det å logge ut er ikke alltid selvforklarende. Det er ikke alltid lett å vite hvor denne logge-ut-knappen er lokalisert. Man kan lete seg ihjel etter søken på logg-ut-knapp på enkelte sider. Bruk sunt datavett og logg ut på datamaskiner som man ikke er alene om å bruke.
+Denne personen er ikke nødvendigvis en verdig superbruker, og det å logge ut er ikke alltid selvforklarende. Det er ikke alltid lett å vite hvor denne logge-ut-knappen er lokalisert. Man kan lete seg ihjel etter søken på logg-ut-knapp på enkelte sider. Bruk sunt datavett og logg ut på datamaskiner som man ikke er alene om å bruke.
 
 <center><img src="../assets/accounts-menu.png"/></center>
 <center><em><b>Figur 4.</b> Meny for store skjermer.</em></center>
 
-For å logge ut av presentasjonsverktøyet, klikk øverst i høyre hjørne, der eposten din står. Deretter klikk logg ut. Hvis du er på en liten mobil enhet, trykker du på hamburger-ikonet for å se menyen.
+For å logge ut av presentasjonsverktøyet, klikk øverst i høyre hjørne, der eposten din står. Deretter klikk logg ut. Hvis du er på en liten mobil enhet, trykker du på hamburger-ikonet for å se menyen (illustrert i figur 5).
 
 <center><img src="../assets/hamburger-icon.png"/></center>
 <center><em><b>Figur 5.</b> Meny for mindre skjermer. Legg merke til hamburgeren øverst til høyre.</em></center>
