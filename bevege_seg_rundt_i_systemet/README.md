@@ -3,9 +3,9 @@
 Systemet skal være relativt enkelt å navigere seg rundt i. Det finnes ikke mange sorte hull man kan falle ned i, men det finnes et par ubehagelige sidegater likevel. Denne seksjonen skal gi et kort overblikk over hvordan lekeplassen ser ut, og hjelpe deg å kjenne igjen farlige fallgruver som kan ende i banning, ergrelser og vel så det.
 
 <center><img src="../assets/left-menu.png"/></center>
-<center><em>Meny for enkel navigasjon.</em></center>
+<center><em><b>Figur 7</b> Meny for enkel navigasjon.</em></center>
 
-I figur 6 over ser du mulighetene dine, i form av en enkel meny. Denne er det like så godt å bli venn med, først som sist. Vi kommer mest til å se på seksjonene `Evalueringsrapporter` og `Opprett rapport`. `Opprett rapport` blir beskrevet i avsnitt `3.1`. De resterende seksjonene er bare seksjoner som viser viktige tekster, uten muligheter for å rote seg bort. Disse kan du utforske selv. Be aware! The dogs are out.
+I figur 7 ser du mulighetene dine, i form av en enkel meny. Denne er det like så godt å bli venn med, først som sist. Vi kommer mest til å se på seksjonene `Evalueringsrapporter` og `Opprett rapport`. `Opprett rapport` blir beskrevet i avsnitt `3.1`. De resterende seksjonene er seksjoner som viser viktige tekster, uten muligheter for å rote seg bort. Disse kan du utforske selv.
 
 ### 2.1 Evalueringsrapporter
 
