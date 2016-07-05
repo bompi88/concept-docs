@@ -4,7 +4,7 @@ Dette er en enkel brukermanual for presentasjonsverktøyet som er skreddersydd C
 
 Applikasjonen er etter beste evne utviklet av to NTNU-studenter, herav [Andreas Drivenes](mailto:andreas.drivenes@gmail.com) og [Bjørn Bråthen](bjorbrat88@gmail.com). Utviklingen foregikk sommeren 2014, i en syv-ukers periode. Applikasjonen er videre vedlikeholdt av Bjørn Bråthen.
 
-Da er det bare å rette opp stolryggen og stramme setebeltet, før vi starter innflyvningen med mestringsfølelser og et smil rundt munnen.
+Da er det bare å rette opp stolryggen og stramme setebeltet, før vi starter innflyvningen med mestringsfølelser og et smil om munnen.
 
 ``` javascript
 lets(begin);
