@@ -16,7 +16,7 @@ Det er ingen link fra Concept sin hovedside og inn til innloggingssiden. Dette e
 Hvis man vil logge seg på, går man direkte til `http://concept-eval.ivt.ntnu.no/concept-admin` i nettleseren. Du kan klikke [her](http://concept-eval.ivt.ntnu.no/concept-admin), så slipper du å kopiere og lime, og alt det der. For den ambisiøse bruker så er det verdt å merke seg, at hvis du allerede er inne på startsiden av presentasjonverktøyet, så legger man bare til `/concept-admin` i adressefeltet til nettleseren.
 
 <center><div style="max-width:500px;"><img src="../assets/accounts-login.png"/></div></center>
-<center><em>Panel for innlogging.</em></center>
+<center><em><b>Figur 1.</b> Panel for innlogging.</em></center>
 
 I dette panelet - som dukker opp på midten av skjermen - skriver man inn epost og tilhørende passord. Deretter klikker man på `Logg inn`, og hvis man da har gjort alt riktig, vil man bli logget inn og få et par ekstra funksjonelle muligheter. Disse mulighetene blir beskrevet i en annen seksjon i denne brukermanualen.
 
