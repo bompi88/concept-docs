@@ -32,10 +32,10 @@ Fikk du røde bokser med feilmelding i (figur 2)? Disse boksene har dessverre me
 1. Du har mistet fatningen.
 2. Passord er tastet inn feil.
 3. Du har glemt passordet.
-4. Epost er tastet inn feil.
+4. E-post er tastet inn feil.
 5. Du har ingen konto i systemet med denne epost-adressen.
-6. Epost og passord er tastet inn feil.
-7. Du har glemt både epost og passord.
+6. E-post og passord er tastet inn feil.
+7. Du har glemt både e-post og passord.
 
 Her er noen tommelfinger-regler:
 
