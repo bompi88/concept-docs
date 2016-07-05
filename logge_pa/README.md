@@ -27,7 +27,7 @@ Nei, ikke gi deg! Du blir ingen superbruker med den holdningen.
 <center><img src="../assets/accounts-notfound.png"/></center>
 <center><em><b>Figur 2.</b> Rød boks med (engelsk) feilmelding.</em></center>
 
-Fikk du røde bokser med feilmelding i? Disse boksene har dessverre mest sannsynlig rett. Det finnes flere grunner til at disse dukker opp:
+Fikk du røde bokser med feilmelding i (figur 2)? Disse boksene har dessverre mest sannsynlig rett. Det finnes flere grunner til at disse dukker opp:
 
 1. Du har mistet fatningen.
 2. Passord er tastet inn feil.
@@ -39,7 +39,7 @@ Fikk du røde bokser med feilmelding i? Disse boksene har dessverre mest sannsyn
 
 Her er noen tommelfinger-regler:
 
-- Hvis du faller innenfor punkt `1`, kan dessverre ingen hjelpe deg.
+- Hvis du faller innenfor punkt `1`, kan vi dessverre ikke hjelpe deg.
 - Hvis punkt `2`, `4` eller `6`, så prøv å logge inn igjen.
 - Hvis punkt `3`, så følger du bare det som står under `Åhh nei, ikke nå igjen!`.
 - Hvis punkt `5` eller `7`, så må du ta kontakt med sjefen eller en av de to studentene som er listet opp i innledningen.
@@ -52,7 +52,7 @@ Her er noen tommelfinger-regler:
 
 > \- Ikke frykt mer gamle sjel, redningen er nær.
 
-Har du en brukerkonto registrert med din egen epost-adresse, kan du gå direkte inn på denne [linken](http://www.concept.ntnu.no/rapporter/concept-admin-forgotton-password) (`http://www.concept.ntnu.no/rapporter/concept-admin-forgotton-password`). Her oppgir du epost-adressen som du er registrert med, og trykker på knappen `Send inn`.
+Har du en brukerkonto registrert med din egen epost-adresse, kan du gå direkte inn på denne [linken](http://concept-eval.ivt.ntnu.no/concept-admin-forgotton-password) (`http://concept-eval.ivt.ntnu.no/concept-admin-forgotton-password`). I dialogen (figur 3) oppgir du epost-adressen som du er registrert med, og trykker på knappen `Send inn`.
 
 <center><img src="../assets/accounts-forgotton.png"/></center>
 <center><em><b>Figur 3.</b> Panel for resetting av passord.</em></center>
