@@ -28,9 +28,7 @@ Ganske langt oppe i skjemaet på siden ligger et kart, der du kan søke etter st
 <center><br/><br/><div style="max-width:600px;"><img src="../assets/wrong-marker.png"/></div></center>
 <center><em><b>Figur 15.</b> Feil markør.</em><br/><br/></center>
 
-Det finnes to forskjellige markører som kan dukke opp i kartet. Den ene er som tidligere, som når du velger lokasjon (figur 14), og den andre kommer når man søker etter steder i søkeboksen (figur 15). Ta en god titt på vedlagte bilder. Det er markøren som ligner på markøren i figur 14 som er din valgte posisjon i kartet.
-
-Hvis du vil endre lokasjonen, må du først dobbeltklikke på den daværende markøren for å fjerne den, og deretter klikke der du vil ha den nye lokasjonen.
+Det finnes to forskjellige markører som kan dukke opp i kartet. Den ene er som tidligere, som når du velger lokasjon (figur 14), og den andre kommer når man søker etter steder i søkeboksen (figur 15). Ta en god titt på vedlagte bilder. Det er markøren som ligner på markøren i figur 14 som er din valgte posisjon i kartet. Hvis du vil endre lokasjonen, må du først dobbeltklikke på den daværende markøren for å fjerne den, og deretter klikke der du vil ha den nye lokasjonen.
 
 <center><br/><br/><div style="max-width:600px;"><img src="../assets/numeric-eval.png"/></div></center>
 <center><em><b>Figur 16.</b> Felt for tallevalueringer.</em><br/><br/></center>
@@ -40,7 +38,7 @@ Lenger nede på denne siden skal du velge tallverdier for evalueringen. Disse ve
 <center><br/><br/><div style="max-width:600px;"><img src="../assets/upload-field.png"/></div></center>
 <center><em><b>Figur 17.</b> Opplastingsfelt for dokumenter.</em><br/><br/></center>
 
-For å gjøre rapporten mer interessant for normale nettsurfere, kan det være lurt å legge ved bilde- og dokumentfiler. Det ligger to felter nederst på siden der man kan laste opp disse filene. Man klikker enten på feltet eller drar filene over feltet og slipper. Hvis man klikker på feltet, velger man filene man vil laste opp. Det kan lastes opp flere filer samtidig. Merk at det er to forskjellige felter; et for dokumenter og et for bilder. I dokumentfeltet er bare `.pdf` og vanlige `MS Office`-dokumenter velkomne, som vil si at resten vil bli avslått. I bildefeltet lastes bare bilder opp. Så hvis ingenting skjer når du velger en fil, er det antageligvis på grunn av at du holder på i feil felt og prøver f.eks. å laste opp et dokument i bildefeltet.
+For å gjøre rapporten mer interessant for normale nettsurfere, kan det være lurt å legge ved bilde- og dokumentfiler. Det ligger to felter nederst på siden der man kan laste opp disse filene. Man klikker enten på feltet eller drar filene over feltet og slipper. Hvis man klikker på feltet, velger man filene man vil laste opp. Det kan lastes opp flere filer samtidig. Merk at det er to forskjellige felter; et for dokumenter og et for bilder. I dokumentfeltet er bare `.pdf` og vanlige `MS Office`-dokumenter velkomne, som vil si at resten vil bli avslått. I bildefeltet lastes bare bilder opp. Så hvis ingenting skjer når du velger en fil, er det antageligvis på grunn av at du holder på i feil felt og prøver f.eks. å laste opp et tekstdokument i bildefeltet.
 
 <center><br/><br/><div style="max-width:600px;"><img src="../assets/upload-field-expanded.png"/></div></center>
 <center><em><b>Figur 18.</b> Tilleggsinformasjon for hver fil.</em><br/><br/></center>
@@ -72,7 +70,7 @@ Klikker du så på denne knappen kommer du til et vindu som er 99.62% identisk m
 <center><br/><br/><div style="max-width:800px;"><img src="../assets/delete-button.png"/></div></center>
 <center><em>Sletteknappen.</em><br/><br/></center>
 
-Du finner en rød knapp nederst til venstre på siden. `Slett` står det på den. Denne ble du litt kjent med i `Opprett rapport`. Den finnes her også, og den gjør som den sier og sletter i dette tilfellet rapporten. Ingen vei tilbake dessverre, så hvis man trykker på denne og angrer på det seinere, hjelper det ikke å ta kontakt med, de tidligere nevnte, smarte studentene.
+Du finner en rød knapp nederst til venstre på siden. `Slett` står det på den. Denne ble du litt kjent med i `Opprett rapport`. Den finnes her også, og den gjør som den sier og sletter i dette tilfellet rapporten. Ingen vei tilbake dessverre, så hvis man trykker på denne og angrer på det seinere, hjelper det ikke å ta kontakt med, de tidligere nevnte utviklerne.
 
 <center><br/><br/><div style="max-width:800px;"><img src="../assets/save-cancel-button.png"/></div></center>
 <center><em>Henholdsvis avbryt- og lagreknapp.</em><br/><br/></center>
