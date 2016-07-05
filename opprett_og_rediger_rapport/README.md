@@ -43,7 +43,9 @@ For å gjøre rapporten mer interessant for normale nettsurfere, kan det være l
 <center><br/><br/><div style="max-width:600px;"><img src="../assets/upload-field-expanded.png"/></div></center>
 <center><em><b>Figur 18.</b> Tilleggsinformasjon for hver fil.</em><br/><br/></center>
 
-Når du har valgt filer som skal lastes opp, vil de dukke opp over opplastningsfeltet. Her vises progresjon av opplastning per fil (figur 18). Det vises også navn og en del felter man kan fylle ut for hver og enkelt fil. Hvis man angrer på å ha lastet opp en fil, kan man klikke den røde "sletteknappen" på den høyre siden. Det velges automatisk et bilde som hovedbilde, men det kan endres ved å klikke den blå knappen som det står `Sett som hovedbilde` på.
+Når du har valgt filer som skal lastes opp, vil de dukke opp over opplastningsfeltet. Her vises progresjon av opplastning per fil (figur 18). Det vises også navn og en del felter man kan fylle ut for hver og enkelt fil. Hvis man angrer på å ha lastet opp en fil, kan man klikke den røde "sletteknappen" på den høyre siden.
+
+Det velges automatisk et bilde som hovedbilde, men det kan endres ved å klikke den blå knappen som det står `Sett som hovedbilde` på.
 
 <center><br/><br/><div style="max-width:600px;"><img src="../assets/publicity.png"/></div></center>
 <center><em><b>Figur 19.</b> Publiseringsvalg.</em><br/><br/></center>
