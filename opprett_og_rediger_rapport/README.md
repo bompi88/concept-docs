@@ -6,7 +6,7 @@
 Dette er vel den lengste siden i systemet. Det loves kake til den som fullfører denne innføringen.
 
 <center><div style="max-width:600px;"><img src="../assets/create-report-form.png"/></div></center>
-<center><em><b>Figur 11</b> Skjemaet som fylles inn for hver rapport.</em></center>
+<center><em><b>Figur 11.</b> Skjemaet som fylles inn for hver rapport.</em></center>
 
 Når du kommer inn på siden, listes det opp en rekke felter som man bør fylle inn. Det er noen som er obligatoriske, og andre ikke. Du får beskjed om du mangler noen felter. Det anbefales å fylle ut flest mulige felter, da dette hjelper til med å opprettholde estetiske og konsistente rapportsider.
 
