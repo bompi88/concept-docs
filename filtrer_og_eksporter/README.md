@@ -3,7 +3,7 @@
 Trykker man på Filtrer-knappen inne på Evalueringsrapporter får man opp muligheten til å legge inn filtre.
 
 <center><div style="max-width:600px;"><img src="../assets/filter-button.png"/></div></center>
-<center><em>Filterknappen til venstre.</em></center>
+<center><em><b>Figur 13.</b> Filterknappen til venstre.</em></center>
 
 ### 4.1 Legg til filter
 
