@@ -1,6 +1,6 @@
 ## 1 Innlogging og brukerkonto
 
-For å kunne nå de "avanserte" funksjonene som denne applikasjonen tilgjengliggjør, må man logge seg inn på systemet. Det er for så vidt en enkel sak, om man ikke har glemt hva både eposten og passordet var for noe. Om man husker sin egen epost-adresse blir det straks en enklere affære.
+For å kunne nå de "avanserte" funksjonene som denne applikasjonen tilgjengliggjør, må man logge seg inn på systemet. Det er for så vidt en enkel sak, om man ikke har glemt hva både e-posten og passordet er for noe. Om man husker sin egen e-post blir det straks en enklere affære. Hvis du mot formodning har glemt begge deler, ta kontakt med en av utviklerne som er listet i introduksjonen av denne manualen.
 
 På denne papirbiten av en side, står det litt om hvordan man logger seg inn og ut, og hvordan man kan komme seg inn selv om man har glemt det forbaskede passordet atter en gang.
 
@@ -13,7 +13,7 @@ Det er ingen link fra Concept sin hovedside og inn til innloggingssiden. Dette e
 </div></center>
 <center><em>Et typisk adressefelt i en nettleser.</em></center>
 
-Hvis man vil logge seg på, går man direkte til `http://www.concept.ntnu.no/rapporter/concept-admin` i nettleseren. Du kan klikke [her](http://www.concept.ntnu.no/rapporter/concept-admin), så slipper du å kopiere og lime, og alt det der. For den ambisiøse bruker så er det verdt å merke seg, at hvis du allerede er inne på startsiden av presentasjonverktøyet, så legger man bare til `/concept-admin` i adressefeltet til nettleseren.
+Hvis man vil logge seg på, går man direkte til `http://concept-eval.ivt.ntnu.no/concept-admin` i nettleseren. Du kan klikke [her](http://concept-eval.ivt.ntnu.no/concept-admin), så slipper du å kopiere og lime, og alt det der. For den ambisiøse bruker så er det verdt å merke seg, at hvis du allerede er inne på startsiden av presentasjonverktøyet, så legger man bare til `/concept-admin` i adressefeltet til nettleseren.
 
 <center><div style="max-width:500px;"><img src="../assets/accounts-login.png"/></div></center>
 <center><em>Panel for innlogging.</em></center>
