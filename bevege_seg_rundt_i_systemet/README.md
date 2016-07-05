@@ -5,7 +5,7 @@ Systemet skal være relativt enkelt å navigere seg rundt i. Det finnes ikke man
 <center><img src="../assets/left-menu.png"/></center>
 <center><em>Meny for enkel navigasjon.</em></center>
 
-I figuren over ser du mulighetene dine, i form av en enkel meny. Denne er det like så godt å bli venn med, først som sist. Vi kommer mest til å se på seksjonene `Evalueringsrapporter` og `Opprett rapport`. `Opprett rapport` blir beskrevet i avsnitt `3.1`. De resterende seksjonene er bare seksjoner som viser viktige tekster, uten muligheter for å rote seg bort. Disse kan du utforske selv. Be aware! The dogs are out.
+I figur 6 over ser du mulighetene dine, i form av en enkel meny. Denne er det like så godt å bli venn med, først som sist. Vi kommer mest til å se på seksjonene `Evalueringsrapporter` og `Opprett rapport`. `Opprett rapport` blir beskrevet i avsnitt `3.1`. De resterende seksjonene er bare seksjoner som viser viktige tekster, uten muligheter for å rote seg bort. Disse kan du utforske selv. Be aware! The dogs are out.
 
 ### 2.1 Evalueringsrapporter
 
