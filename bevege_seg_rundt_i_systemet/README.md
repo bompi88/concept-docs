@@ -21,7 +21,7 @@ I en hver sammenheng kan man eksportere rapportene i - den sorterte og/eller fil
 <center><div style="max-width:800px;"><img src="../assets/evaluation-reports-table.png"/></div></center>
 <center><em><b>Figur 9</b> Tabellvisning i seksjonen Evalueringsrapporter.</em></center>
 
-I tabellvisningsmodus kan man enkelt sortere på kolonnene ved å trykke på kolonnetittelen. En pil indikerer hvilken kolonne som sorteres på og hvilken retning verdiene stiger. På bildet over, ser man at `navn` er valgt som sorteringsattributt og at radene sorteres stigende fra topp til bunn. Nåværende sortering vises også i sorteringsknappen øverst til høyre. Hvis man klikker på en av radene kommer man inn på den enkelte rapport sin side.
+I tabellvisningsmodus (figur 9) kan man enkelt sortere på kolonnene ved å trykke på kolonnetittelen. En pil indikerer hvilken kolonne som sorteres på og hvilken retning verdiene stiger. På bildet over, ser man at `navn` er valgt som sorteringsattributt og at radene sorteres stigende fra topp til bunn. Nåværende sortering vises også i sorteringsknappen øverst til høyre. Hvis man klikker på en av radene kommer man inn på den enkelte rapport sin side.
 
 <center><div style="max-width:800px;"><img src="../assets/evaluation-reports-map.png"/></div></center>
 <center><em>Kartvisning i seksjonen Evalueringsrapporter.</em></center>
