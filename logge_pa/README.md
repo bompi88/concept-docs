@@ -96,4 +96,4 @@ For å logge ut av presentasjonsverktøyet, klikk øverst i høyre hjørne, der 
 Er man litt ensom inne på sida, kan man alltids legge til flere brukere. For superbrukere finnes det en brukerhåndteringsside, som kan nåes fra menyen øverst på siden. Klikk på `Brukerhåndtering` for å komme inn på denne siden. Nederst på siden befinner det seg et felt der man kan skrive inn eposten til den personen man vil invitere. Når du har skrevet inn eposten, klikker du på `Send epost til ny bruker`, og vennen din får straks en epost med instrukser på hvordan han kan bli med i klubben.
 
 <center><img src="../assets/create-user.png"/></center>
-<center><em><b>Figur 6.</b> Invitér til fest og moro på klubbhuset.</em></center>
+<center><em><b>Figur 6.</b> Invitér bruker ved bruk av e-post.</em></center>
