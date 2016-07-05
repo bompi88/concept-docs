@@ -31,4 +31,4 @@ Siden komma er desimalskilletegn - og ikke punktum - i Norge er det viktig at ma
 
 ### 4.3 Eksporter rapport som pdf-dokument
 
-Hvis man vil kan man eksportere rapporter hver for seg, som pdf-dokument. Man må være logget inn, og gå til en spesifikk rapport. Der inne finnes det en eksportèr-knapp. Denne blir aktiv når filen er klar for nedlastning. Klikk så på denne eksportèr-knappen. Internet Explorer vil ikke eksportere spider-diagram, da denne nettleseren ikke tilfredstiller visse funksjonelle krav.
+Hvis man vil kan man eksportere rapporter hver for seg, som pdf-dokument. Man må være logget inn, og gå til en spesifikk rapport. Der inne finnes det en eksportèr-knapp. Denne blir aktiv når filen er klar for nedlastning. Klikk så på denne eksportèr-knappen. Gammel versjon av Internet Explorer vil ikke eksportere spider-diagram, da denne nettleseren ikke tilfredstiller visse funksjonelle krav.
