@@ -69,15 +69,15 @@ Hvis du tidligere har opprettet en rapport, og nå enten angrer eller vil tilfø
 
 Klikker du så på denne knappen kommer du til et vindu som er 99.62% identisk med vinduet som man oppretter rapporter i. Eneste forskjellen er knappene som ligger nederst på siden og hva som utføres når man klikker på disse knappene. Hvis du hoppet over den røde boksen med advarsel, er det lurt at du prøver å lese denne på nytt. Alt som er rødt skal man være skeptisk til og forsiktig med.
 
-<center><div style="max-width:800px;"><img src="../assets/delete-button.png"/></div></center>
-<center><em>Sletteknappen.</em></center>
+<center><br/><br/><div style="max-width:800px;"><img src="../assets/delete-button.png"/></div></center>
+<center><em>Sletteknappen.</em><br/><br/></center>
 
 Du finner en rød knapp nederst til venstre på siden. `Slett` står det på den. Denne ble du litt kjent med i `Opprett rapport`. Den finnes her også, og den gjør som den sier og sletter i dette tilfellet rapporten. Ingen vei tilbake dessverre, så hvis man trykker på denne og angrer på det seinere, hjelper det ikke å ta kontakt med, de tidligere nevnte, smarte studentene.
 
-<center><div style="max-width:800px;"><img src="../assets/save-cancel-button.png"/></div></center>
-<center><em>Henholdsvis avbryt- og lagreknapp.</em></center>
+<center><br/><br/><div style="max-width:800px;"><img src="../assets/save-cancel-button.png"/></div></center>
+<center><em>Henholdsvis avbryt- og lagreknapp.</em><br/><br/></center>
 
 Når man har gjort de endringene man skal gjøre i de forskjellige feltene, trykker man bare på lagre, og rapporten blir lagret med de nye verdiene. Ingen tilbakestillingsfunksjonalitet (langt ord) her heller. Det som er gjort er gjort, og det som må gjøres må gjøres. Hvis du nå ikke har lyst til å lagre likevel, trykker du på `Avbryt` like ved lagre knappen. På mobile, mikroskopiske enheter kan dette være vanskelig. Lykke til!
 
-<center><div style="max-width:500px;"><img src="../assets/micro-phone.png"/></div></center>
+<center><br/><br/><div style="max-width:500px;"><img src="../assets/micro-phone.jpg"/></div></center>
 <center><em>Håpløst.</em></center>
