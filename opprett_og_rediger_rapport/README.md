@@ -43,12 +43,12 @@ For å gjøre rapporten mer interessant for normale nettsurfere, kan det være l
 <center><br/><br/><div style="max-width:600px;"><img src="../assets/upload-field-expanded.png"/></div></center>
 <center><em><b>Figur 18.</b> Tilleggsinformasjon for hver fil.</em><br/><br/></center>
 
-Når du har valgt filer som skal lastes opp, vil de dukke opp over opplastningsfeltet. Her vises progresjon av opplastning per fil. Det vises også navn og en del felter man kan fylle ut for hver og enkelt fil. Hvis man angrer på å ha lastet opp en fil, kan man klikke den røde "sletteknappen" på den høyre siden. Det velges automatisk et bilde som hovedbilde, men det kan endres ved å klikke den blå knappen som det står `Sett som hovedbilde` på.
+Når du har valgt filer som skal lastes opp, vil de dukke opp over opplastningsfeltet. Her vises progresjon av opplastning per fil (figur 18). Det vises også navn og en del felter man kan fylle ut for hver og enkelt fil. Hvis man angrer på å ha lastet opp en fil, kan man klikke den røde "sletteknappen" på den høyre siden. Det velges automatisk et bilde som hovedbilde, men det kan endres ved å klikke den blå knappen som det står `Sett som hovedbilde` på.
 
 <center><br/><br/><div style="max-width:600px;"><img src="../assets/publicity.png"/></div></center>
 <center><em><b>Figur 19.</b> Publiseringsvalg.</em><br/><br/></center>
 
-Til slutt har man alternativet mellom å skjule eller publisere rapporten. Det kan hende du ikke er helt ferdig og ønsker å gjøre et par endringer før man publiserer. Du kan da trykke på `Gjem`, og deretter `Lagre` eller `Opprett`. Dette kan endres seinere på samme måte.
+Til slutt har man alternativet mellom å skjule eller publisere rapporten (figur 19). Det kan hende du ikke er helt ferdig og ønsker å gjøre et par endringer før man publiserer. Du kan da trykke på `Gjem`, og deretter `Lagre` eller `Opprett`. Dette kan endres seinere på samme måte.
 
 Da var vi ferdige med dette dråget av en side. Da er det bare å fylle opp kaffekoppen og sette seg ned å skrive! ;-)
 
@@ -70,12 +70,12 @@ Klikker du så på denne knappen kommer du til et vindu som er 99.62% identisk m
 <center><br/><br/><div style="max-width:800px;"><img src="../assets/delete-button.png"/></div></center>
 <center><em><b>Figur 20.</b> Sletteknappen.</em><br/><br/></center>
 
-Du finner en rød knapp nederst til venstre på siden. `Slett` står det på den. Denne ble du litt kjent med i `Opprett rapport`. Den finnes her også, og den gjør som den sier og sletter i dette tilfellet rapporten. Ingen vei tilbake dessverre, så hvis man trykker på denne og angrer på det seinere, hjelper det ikke å ta kontakt med, de tidligere nevnte utviklerne.
+Du finner en rød knapp nederst til venstre på siden (figur 20). `Slett` står det på den. Denne ble du litt kjent med i `Opprett rapport`. Den finnes her også, og den gjør som den sier og sletter i dette tilfellet rapporten. Ingen vei tilbake dessverre, så hvis man trykker på denne og angrer på det seinere, hjelper det ikke å ta kontakt med, de tidligere nevnte utviklerne.
 
 <center><br/><br/><div style="max-width:800px;"><img src="../assets/save-cancel-button.png"/></div></center>
 <center><em><b>Figur 21.</b> Henholdsvis avbryt- og lagreknapp.</em><br/><br/></center>
 
-Når man har gjort de endringene man skal gjøre i de forskjellige feltene, trykker man bare på lagre, og rapporten blir lagret med de nye verdiene. Ingen tilbakestillingsfunksjonalitet (langt ord) her heller. Det som er gjort er gjort, og det som må gjøres må gjøres. Hvis du nå ikke har lyst til å lagre likevel, trykker du på `Avbryt` like ved lagre knappen. På mobile, mikroskopiske enheter kan dette være vanskelig. Lykke til!
+Når man har gjort de endringene man skal gjøre i de forskjellige feltene, trykker man bare på lagre (figur 21), og rapporten blir lagret med de nye verdiene. Ingen tilbakestillingsfunksjonalitet (langt ord) her heller. Det som er gjort er gjort, og det som må gjøres må gjøres. Hvis du nå ikke har lyst til å lagre likevel, trykker du på `Avbryt` (figur 21) like ved lagre knappen. På mobile, mikroskopiske enheter (figur 22) kan dette være vanskelig. Lykke til!
 
 <center><br/><br/><div style="max-width:500px;"><img src="../assets/micro-phone.jpg"/></div></center>
 <center><em><b>Figur 22.</b> Håpløst.</em></center>
