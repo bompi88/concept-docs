@@ -13,7 +13,7 @@ Når du kommer inn på siden, ved å klikke `Opprett rapport`, listes det opp en
 <center><br/><br/><div style="max-width:600px;"><img src="../assets/form-error.png"/></div></center>
 <center><em><b>Figur 12.</b> Feilmeldinger i skjemaet. Her er en bokstav lagt inn istedet for et tall.</em><br/><br/></center>
 
-Det finnes seks forskjellige typer felter. Vi har blant annet tekstfelter og tallfelter. Disse er veldig like, men den ene av dem godtar bare tall. Man kan ofte se en liten forskjell på dem, da tallfelter har som oftest et par små piler på høyre side. Dette er dessverre bestemt av nettleseren, og varierer en del fra nettleser til nettleser. Ikke bekymre deg, kjære venn, systemet sier i fra hvis det er ugler i mosen.
+Det finnes seks forskjellige typer felter. Vi har blant annet tekstfelter og tallfelter. Disse er veldig like, men tallfeltene aksepterer bare tall. Man kan ofte se en liten forskjell på dem, da tallfelter har som oftest et par små piler på høyre side. Dette er dessverre bestemt av nettleseren, og varierer en del fra nettleser til nettleser. Ikke bekymre deg, kjære venn, systemet sier i fra hvis det er ugler i mosen.
 
 <center><br/><br/><div style="max-width:600px;"><img src="../assets/location-picker.png"/></div></center>
 <center><em>Kart som man kan søke og velge lokasjon i.</em><br/><br/></center>
