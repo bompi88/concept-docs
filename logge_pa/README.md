@@ -81,7 +81,7 @@ Noen vil sikkert si:
 
 > Spar meg. Jeg klarer vel å logge ut på egenhånd. Hva tar du meg for å være?!
 
-Denne personen er ikke nødvendigvis en verdig superbruker, og det å logge ut er ikke alltid selvforklarende. Det er ikke alltid lett å vite hvor denne logge-ut-knappen er lokalisert. Man kan lete seg ihjel etter søken på logg-ut-knapp på enkelte sider. Bruk sunt datavett og logg ut på datamaskiner som man ikke er alene om å bruke.
+Det å logge ut er ikke alltid selvforklarende. Det er ikke alltid lett å vite hvor denne logge-ut-knappen er lokalisert. Man kan lete seg ihjel etter søken på logg-ut-knapp på enkelte sider. Bruk sunt datavett og logg ut på datamaskiner som man ikke er alene om å bruke.
 
 <center><img src="../assets/accounts-menu.png"/></center>
 <center><em><b>Figur 4.</b> Meny for store skjermer.</em></center>
@@ -93,7 +93,7 @@ For å logge ut av presentasjonsverktøyet, klikk øverst i høyre hjørne, der 
 
 ### 1.4 Legge til flere brukere
 
-Er man litt ensom inne på sida, kan man alltids legge til flere brukere. Det finnes en `Lag ny bruker`-knapp oppe i menyen. Klikker du på denne, kommer det opp et felt der man kan skrive inn eposten til den personen man vil invitere til fest og moro. Når du har skrevet inn eposten, klikker du på `Send epost til bruker`, og vennen din får straks en epost med instrukser på hvordan han kan bli med i klubben.
+Er man litt ensom inne på sida, kan man alltids legge til flere brukere. For superbrukere finnes det en brukerhåndteringsside, som kan nåes fra menyen øverst på siden. Klikk på `Brukerhåndtering` for å komme inn på denne siden. Nederst på siden befinner det seg et felt der man kan skrive inn eposten til den personen man vil invitere. Når du har skrevet inn eposten, klikker du på `Send epost til ny bruker`, og vennen din får straks en epost med instrukser på hvordan han kan bli med i klubben.
 
 <center><img src="../assets/create-user.png"/></center>
 <center><em><b>Figur 6.</b> Invitér til fest og moro på klubbhuset.</em></center>
