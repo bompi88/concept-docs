@@ -2,21 +2,21 @@
 
 Trykker man på Filtrer-knappen inne på Evalueringsrapporter får man opp muligheten til å legge inn filtre.
 
-<center><div style="max-width:600px;">![Figure 1-1](../assets/filter-button.png)</div></center>
+<center><div style="max-width:600px;"><img src="../assets/filter-button.png"/></div></center>
 <center><em>Filterknappen til venstre.</em></center>
 
 ### 4.1 Legg til filter
 
 Man må velge attributt, operator og operand før man kan trykke på Legg til filter. De ulike attributtene er datafelter som ligger i databasen. Operatorer er "inneholder", "er lik", "mindre enn" og "større enn". Operand er verdien man skal søke på. Systemet gir beskjed dersom attributt og operator ikke passer sammen. For eksempel kan ikke et navn være mindre enn en annen verdi. Man kan legge til flere slike filtre for å hente ut akkurat det man vil fra databasen.
 
-<center><div style="max-width:600px;">![Figure 1-1](../assets/filter-select.png)</div></center>
+<center><div style="max-width:600px;"><img src="../assets/filter-select.png"/></div></center>
 <center><em>Legg til filter.</em></center>
 
 ### 4.2 Fjern filter
 
 Trykk på den røde Fjern filter-knappen i filtertabellen.
 
-<center><div style="max-width:600px;">![Figure 1-1](../assets/filter-list.png)</div></center>
+<center><div style="max-width:600px;"><img src="../assets/filter-list.png"/></div></center>
 <center><em>Liste med valgte filtre.</em></center>
 
 ### 4.3 Eksporter data til Excel
