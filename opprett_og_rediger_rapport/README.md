@@ -8,7 +8,7 @@ Dette er vel den lengste siden i systemet. Det loves kake til den som fullfører
 <center><br/><br/><div style="max-width:600px;"><img src="../assets/create-report-form.png"/></div></center>
 <center><em><b>Figur 11.</b> Skjemaet som fylles inn for hver rapport.</em><br/><br/></center>
 
-Når du kommer inn på siden, ved å klikke `Opprett rapport`, listes det opp en rekke felter som man bør fylle inn (figur 11). Det er noen som er obligatoriske, og andre ikke. Du får beskjed om du mangler noen felter. Det anbefales å fylle ut flest mulige felter, da dette hjelper til med å opprettholde estetiske og konsistente rapportsider.
+Når du kommer inn på siden, ved å klikke `Opprett rapport`, listes det opp en rekke felter som man bør fylle inn (figur 11). Det er noen som er obligatoriske, og andre ikke. Du får beskjed om du mangler noen felter. Det anbefales å fylle ut flest mulige felter, da dette hjelper til med å opprettholde estetisk riktige og konsistente rapportsider.
 
 <center><br/><br/><div style="max-width:600px;"><img src="../assets/form-error.png"/></div></center>
 <center><em><b>Figur 12.</b> Feilmeldinger i skjemaet. Her er en bokstav lagt inn istedet for et tall.</em><br/><br/></center>
