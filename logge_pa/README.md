@@ -57,7 +57,7 @@ Har du en brukerkonto registrert med din egen epost-adresse, kan du gå direkte 
 <center><br/><br/><img src="../assets/accounts-forgotton.png"/></center>
 <center><em><b>Figur 3.</b> Panel for resetting av passord.</em><br/><br/></center>
 
-Du vil nå - etter et snevert øyeblikk - få en epost i din innboks. Klikk på linken i eposten. Velg deretter nytt passord ved å fylle inn de respektive feltene, og trykk på `Send inn`. Du har nå smertefritt endret passordet.
+Du vil nå - etter et snevert øyeblikk - få en e-post i din innboks. Klikk på linken i e-posten. Velg deretter nytt passord ved å fylle inn de respektive feltene, og trykk på `Send inn`. Du har nå smertefritt endret passordet.
 
 Kommer du nå til å huske passordet til neste gang? Kremt.. Kremt..
 
